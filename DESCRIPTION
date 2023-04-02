@@ -1,7 +1,7 @@
 Package: compindexR
 Type: Package
 Title: Calculates Composite Index
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Olgun", "Aydin", email = "olgun.aydin@pg.edu.pl", role = c("cre"),
            comment = c(ORCID = "0000-0002-7090-0931")),
@@ -18,10 +18,10 @@ Depends: R (>= 4.0.0), car (>= 3.1.0), pracma(>= 2.3.8), dplyr(>=
         1.0.7), NlcOptim(>= 0.6)
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2023-03-16 13:16:06 UTC; olgunaydin
+Packaged: 2023-04-02 15:17:45 UTC; olgunaydin
 Author: Olgun Aydin [cre] (<https://orcid.org/0000-0002-7090-0931>),
   Marta Kuc-Czarnecka [aut] (<https://orcid.org/0000-0003-2970-9980>),
   Michal Pietrzak [aut] (<https://orcid.org/0000-0002-9263-4478>)
 Maintainer: Olgun Aydin <olgun.aydin@pg.edu.pl>
 Repository: CRAN
-Date/Publication: 2023-03-16 19:20:05 UTC
+Date/Publication: 2023-04-02 15:40:05 UTC
