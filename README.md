@@ -1,3 +1,4 @@
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/compindexR?color=green)](https://cran.r-project.org/package=compindexR)
 [![](http://cranlogs.r-pkg.org/badges/grand-total/compindexR?color=green)](https://cran.r-project.org/package=compindexR)
 [![](http://cranlogs.r-pkg.org/badges/compindexR?color=green)](https://cran.r-project.org/package=compindexR)
@@ -11,7 +12,17 @@ In the case of a discrepancy between the importance and the assigned weight, the
 
 The final outcome of the script is the calculated value of the composite indicator based on optimal weights and a reduced set of variables, and the linear ordering of the analysed objects.
 
-## Installing compindexR
+## Installing compindexR from CRAN
+
+Please use following commands
+
+```
+install.packages("compindexR")
+library(compindexR)
+
+```
+
+## Installing compindexR - development version
 
 Please make sure that you installed `devtools` package. 
 

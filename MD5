@@ -1,4 +1,4 @@
-df63000a4bdee37c58dce7254bc1ccba *DESCRIPTION
+883e1c475da92ea948185d309f82acac *DESCRIPTION
 f7c2d6c4de81f8bac4348434d8b308d6 *NAMESPACE
 e1dbef9635332626de7c855051b48390 *R/calc_average.R
 df1c5f482434a106ab965a607fe84446 *R/calc_compindex.R
@@ -7,7 +7,7 @@ df1c5f482434a106ab965a607fe84446 *R/calc_compindex.R
 75d5b1410088e148feb4e3a57faf00fc *R/si_linear.R
 be5f0994af2e1288f130bfc51010d1cb *R/si_linear_exc.R
 ef4f42a610a617bca80bf9ad7908c4bd *R/si_linear_exc_vif.R
-eae8ce7be90f6b5bec1a71436b43c7e2 *README.md
+2956c94a128b257151f522a009ff2080 *README.md
 a00f99d8285007ffa1bcc8a513cd32aa *inst/extdata/cel10_adjusted.xlsx
 1d477dad6eb16c28693a7948eca5d733 *inst/extdata/cel4_adjusted.xlsx
 baf162233b597adcdf609417f9ad807e *inst/extdata/cel_10.xlsx
